@@ -3,7 +3,7 @@
 by András Ács Pedersen and Jesper Balslev.
 
 [![Leanpub](https://img.shields.io/badge/Leanpub-DRM--free_ebook,_free_updates-2ea44f?logo=leanpub&logoColor=white)](https://leanpub.com/sustainable-digital)
-[![Amazon](https://img.shields.io/badge/Amazon-Kindle%20&%20Soft%20&%20Hardcover-ff9900)](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0GTJM33D5/)
+[![Amazon](https://img.shields.io/badge/Amazon-Kindle%20&%20Soft%20&%20Hardcover-ff9900)](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0H9DD6FMB/)
 [![Samfundslitteratur](https://img.shields.io/badge/Samfundslitteratur-Dansk_udgave_📖-cc0000)](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)
 
 ## 📗 Get the book
