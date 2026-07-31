@@ -15,7 +15,7 @@ This book turns that leverage into practice. 🌱 It is not a manifesto and not 
 Every factual claim is checked against the current state of the art, every chapter ends with reflection questions, and the whole book is written to one purpose: helping you practice your digital profession more sustainably, starting now.
 
 - 🛒 **[Buy on Leanpub](https://leanpub.com/sustainable-digital)** — DRM-free ebook with **free updates forever**: buy once and receive every future revision as the book evolves.
-- 📱 **[Buy on Amazon](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0H9DD6FMB/)** — prefer Kindle? The book is there too.
+- 📱 **[Buy on Amazon](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0H9DD6FMB/)** — Buy softcover to read once or twice, it has a lesser footprint. Hardcover version if you want to re-use it several times. Or prefer Kindle? The book is there too.
 - 🇩🇰 **[Køb den danske udgave hos Samfundslitteratur](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)** — *Bæredygtighed i digital praksis*, den originale danske udgave.
 
 ## 🙏 Thanks
