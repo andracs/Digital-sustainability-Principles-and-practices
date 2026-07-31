@@ -14,8 +14,7 @@ Several online sources are included in the bibliography. Unless otherwise stated
 
 - **Andre**, P., Boneva, T., Chopra, F. et al. (2024). Globally representative evidence on the actual and perceived support for climate action. Nature Climate Change, 14(3), 253-259. https://doi.org/10.1038/s41558-024-01925-3
 
-- **Angela** (2023). Sticking with Cobalt Blue. Fairphone, March 2.
-https://perma.cc/D2QZ-65DD 
+- **Angela** (2023). Sticking with Cobalt Blue. Fairphone, March 2. https://perma.cc/D2QZ-65DD 
 
 - **Apple** (2024). Apple 2030 - A plan as innovative as our products. https://www.apple.com/environment/
 
@@ -71,7 +70,7 @@ https://perma.cc/D2QZ-65DD
 
 - **DaSilva**, B., Dhar, J., Rafiq, S. et al. (2022). Nudging Consumers Toward Sustainability. BCG Global. https://www.bcg.com/publications/2022/nudging-consumers-to-make-sustainable-choices
 
-- **Decker**, K.D. (2024). What is Low-tech Magazine? LOW TECH MAGAZINE, May 30.
+- **Decker**, K.D. (2024). What is Low-tech Magazine? LOW TECH MAGAZINE, https://perma.cc/QUU4-JMU2 
 
 - **DigitalEurope** (2021). Digital action = climate action: 8 ideas to accelerate the twin transition. https://perma.cc/MR3V-CEKX
 
@@ -119,28 +118,23 @@ https://perma.cc/D2QZ-65DD
 
 - **European Environment Agency** (2024). Pesticides in rivers, lakes and groundwater in Europe.
 
-
 - **European Urology Focus** (2023). Telemedicine and carbon savings: a systematic review. https://www.eu-focus.europeanurology.com/article/S2405-4569(23)00272-9/abstract
 
 - **Fairphone Community** (2024). Fairphone Community - On a Journey to Change the Electronics Industry. Fairphone.com. https://www.fairphone.com/en/community/
 
 - **Flyverbom**, M. (2023). "Foreword". In Democratic control of tech giants' business models. Ministry of Business and Industry: 4-5. https://em.dk/Media/638259804674509194/anbefalinger-fra-tech-ekspertgruppe.pdf
 
-- **Forskningsportal.dk** (2025).
-https://forskningsportal.dk/green-research/
+- **Forskningsportal.dk** (2025). https://forskningsportal.dk/green-research/
 
-- **Foxconn suicides** (2024). In Wikipedia. 
-https://perma.cc/3F9L-JKFW
+- **Foxconn suicides** (2024). In Wikipedia. https://perma.cc/3F9L-JKFW
 
 - **Framework** (n.d.). Website. https://frame.work/sustainability (accessed 23.01.25).
 
 - **Frank**, L. (2023). Truslen fra rummet (27/02/2023). 24 spørgsmål til professoren (Podcast).
-https://www.weekendavisen.dk/podcast/24sporgsmaal
 
 - **Franklin**, U. (1998). The Real World of Technology (5th edition). Canadian Broadcasting Corporation.
 
-- **Freewheeling Apps** (n.d.). Website.
-http://akkartik.name/freewheeling-apps (accessed 24.06.24).
+- **Freewheeling Apps** (n.d.). Website. https://perma.cc/PSN5-CNDU 
 
 - **Gartner** (2024). Gartner Hype Cycle Research Methodology.
 
@@ -213,8 +207,7 @@ https://perma.cc/D2W3-ZCR2 (accessed 03.03.25).
 
 - **Life-Centred Design Lab** (2024). Our Framework. A Life-centred Design Framework to Design a Healthier World and Future for All Life. https://lifecentred.design/framework/
 
-- **Low-tech Magazine** (n.d.). About.
-https://solar.lowtechmagazine.com/about/
+- **Low-tech Magazine** (n.d.). About. 
 
 - **Lowe, D**. (2012). Eroom's Law. Science, March 8. https://www.science.org/content/blog-post/eroom-s-law
 
