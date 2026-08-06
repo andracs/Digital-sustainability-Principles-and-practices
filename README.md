@@ -6,10 +6,6 @@ by András Ács Pedersen and Jesper Balslev.
 [![Amazon](https://img.shields.io/badge/Amazon-Kindle%20&%20Soft%20&%20Hardcover-ff9900)](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0H9DD6FMB/)
 [![Samfundslitteratur](https://img.shields.io/badge/Samfundslitteratur-Dansk_udgave_📖-cc0000)](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)
 
-## 🗺️ About this repository
-
-This repository holds the manuscript - and also out todo lists. If you rather not read the markdown files, please consider buying a copy (on the links above). Also, you are very welcone to contribute, if you feel like helping with the todo-lists or improving the book other ways.
-
 ## 📗 Get the book
 
 If you write code, design interfaces, run infrastructure, or manage digital projects, your daily decisions carry an environmental and social footprint — and more leverage over it than you might think. 
@@ -21,6 +17,11 @@ Every factual claim is checked against the current state of the art, every chapt
 - 🛒 **[Buy on Leanpub](https://leanpub.com/sustainable-digital)** — DRM-free ebook with **free updates forever**: buy once and receive every future revision as the book evolves.
 - 📱 **[Buy on Amazon](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0H9DD6FMB/)** — Buy softcover to read once or twice, it has a lesser footprint. Hardcover version if you want to re-use it several times. Or prefer Kindle? The book is there too.
 - 🇩🇰 **[Køb den danske udgave hos Samfundslitteratur](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)** — *Bæredygtighed i digital praksis*, den originale danske udgave.
+
+
+## 🗺️ About this repository
+
+This repository holds the manuscript - and also out todo lists. If you rather not read the markdown files, please consider buying a copy (on the links above). Also, you are very welcone to contribute, if you feel like helping with the todo-lists or improving the book other ways.
 
 
 # An overview of the book 
