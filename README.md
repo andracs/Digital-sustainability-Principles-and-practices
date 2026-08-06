@@ -24,7 +24,7 @@ Every factual claim is checked against the current state of the art, every chapt
 This repository holds the manuscript - and also out todo lists. If you rather not read the markdown files, please consider buying a copy (on the links above). Also, you are very welcone to contribute, if you feel like helping with the todo-lists or improving the book other ways.
 
 
-## An overview of the book 
+## Line of thought
 
 [![Digital sustainability - Principles and practices](https://github.com/andracs/Digital-sustainability-Principles-and-practices/blob/71e999210cf720063db2eced8b4df25c7f24b989/manuscript/resources/%F0%9F%8C%8D%20Digital%20sustainability%20-%20Principles%20and%20practices.png?raw=true)](https://link.excalidraw.com/p/readonly/VO0zcn4agdKgURMXNcJX)
 
