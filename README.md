@@ -8,7 +8,7 @@ by András Ács Pedersen and Jesper Balslev.
 
 ## 📗 Get the book
 
-If you write code, design interfaces, run infrastructure, or manage digital projects, your daily decisions carry an environmental and social footprint — and more leverage over it than you might think. 
+If you write code, design interfaces, run infrastructure, work with AI or manage digital projects, your daily decisions carry an environmental and social footprint — and more leverage over it than you might think. 
 
 This book turns that leverage into practice. 🌱 It is not a manifesto and not a research paper: it is a practitioner's guide that walks you from the fundamental concepts of sustainability, through systems thinking, hardware, software, design, well-being, degrowth, and digital business, to concrete checklists you can apply in your next project. 
 
