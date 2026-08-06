@@ -6,6 +6,12 @@ by András Ács Pedersen and Jesper Balslev.
 [![Amazon](https://img.shields.io/badge/Amazon-Kindle%20&%20Soft%20&%20Hardcover-ff9900)](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0H9DD6FMB/)
 [![Samfundslitteratur](https://img.shields.io/badge/Samfundslitteratur-Dansk_udgave_📖-cc0000)](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)
 
+# An overview of the book 
+
+[![Digital sustainability - Principles and practices](https://github.com/andracs/Digital-sustainability-Principles-and-practices/blob/71e999210cf720063db2eced8b4df25c7f24b989/manuscript/resources/%F0%9F%8C%8D%20Digital%20sustainability%20-%20Principles%20and%20practices.png?raw=true)](https://link.excalidraw.com/p/readonly/VO0zcn4agdKgURMXNcJX)
+
+Click on the image to open the slideshow. 
+
 ## 📗 Get the book
 
 If you write code, design interfaces, run infrastructure, or manage digital projects, your daily decisions carry an environmental and social footprint — and more leverage over it than you might think. 
@@ -18,19 +24,13 @@ Every factual claim is checked against the current state of the art, every chapt
 - 📱 **[Buy on Amazon](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0H9DD6FMB/)** — Buy softcover to read once or twice, it has a lesser footprint. Hardcover version if you want to re-use it several times. Or prefer Kindle? The book is there too.
 - 🇩🇰 **[Køb den danske udgave hos Samfundslitteratur](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)** — *Bæredygtighed i digital praksis*, den originale danske udgave.
 
-## 🙏 Thanks
-
-A warm thank you to **[Samfundslitteratur](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)**, the original Danish publisher of *Bæredygtighed i digital praksis*, whose belief in the book made this English edition possible, by awarding the book a special mention at the Lærebogsprisen (Textbook Prize). Their initial support and recognition have been instrumental in bringing these critical insights on digital sustainability to an international audience. We are deeply grateful for their continued partnership.
-
-## 🗺️ How the book is built
+## 🗺️ About this repository
 
 This repository holds the manuscript - and also out todo lists. If you rather not read the markdown files, please consider buying a copy (on the links above). Also, you are very welcone to contribute, if you feel like helping with the todo-lists or improving the book other ways.
 
-# View the narrative of the book 
+## 🙏 Thanks
 
-[![Digital sustainability - Principles and practices](https://github.com/andracs/Digital-sustainability-Principles-and-practices/blob/71e999210cf720063db2eced8b4df25c7f24b989/manuscript/resources/%F0%9F%8C%8D%20Digital%20sustainability%20-%20Principles%20and%20practices.png?raw=true)](https://link.excalidraw.com/p/readonly/VO0zcn4agdKgURMXNcJX)
-
-Click on the image to open the slideshow. 
+A warm thank you to **[Samfundslitteratur](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)**, the original Danish publisher of *Bæredygtighed i digital praksis*, whose belief in the book made this English edition possible, by awarding the book a special mention at the Lærebogsprisen (Textbook Prize). Their initial support and recognition have been instrumental in bringing these critical insights on digital sustainability to an international audience. We are deeply grateful for their continued partnership.
 
 # Contact 
 
