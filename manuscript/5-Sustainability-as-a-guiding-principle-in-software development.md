@@ -56,9 +56,9 @@ This approach is typically conducted in a lab environment during the development
  
 Concrete examples of tools aiming to address these measurements include the [_Green Metrics Tool_](https://metrics.green-coding.io/). This is conceived as a collection of tools designed to capture energy and carbon data across different stages of the software lifecycle. As of now, the suite includes several modules:
 
-* _ScenarioRunner_: Measures software energy consumption and related CO₂ estimates for specific execution scenarios.
-* _Eco CI_: A plug-in designed for CI/CD pipelines to integrate energy/CO₂ checks into the development workflow.
-* _CarbonDB_: Aims to provide a consolidated view of CO₂ emissions broken down by project, tool, or source.
+* _ScenarioRunner_: Measures software energy consumption and related CO2 estimates for specific execution scenarios.
+* _Eco CI_: A plug-in designed for CI/CD pipelines to integrate energy/CO2 checks into the development workflow.
+* _CarbonDB_: Aims to provide a consolidated view of CO2 emissions broken down by project, tool, or source.
 * _Power Hog_: A tool focused on tracking the energy consumption of the local computer running software.
 * _Cloud Energy_: Utilizes machine learning models to estimate energy usage specifically for cloud-based workloads.
 
