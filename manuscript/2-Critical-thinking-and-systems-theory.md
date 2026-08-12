@@ -1,6 +1,6 @@
 {book: false, sample: false} 
 # TODO
-- [ ] ..
+- [ ] Elaborate on life cycle analysis
 
 {book: true, sample: false} 
 # 2. Critical thinking and systems theory
