@@ -21,7 +21,7 @@ Every factual claim is checked against the current state of the art, every chapt
 
 ## 🗺️ About this repository
 
-This repository holds the manuscript - and also out todo lists. If you rather not read the markdown files, please consider buying a copy (on the links above). Also, you are very welcone to contribute, if you feel like helping with the todo-lists or improving the book other ways.
+This repository holds the manuscript - and also out todo lists. If you rather not read the markdown files, please consider buying a copy (on the links above). Also, you are very welcone to contribute, if you feel like helping with the todo-lists or improving the book other ways. Or write a review or suggest it for a curriculum.
 
 
 ## Line of thought
