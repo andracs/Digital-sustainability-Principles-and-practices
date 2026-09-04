@@ -1,5 +1,6 @@
 {book: false, sample: false} 
 # TODO
+- [ ] 9R - https://www.sciencedirect.com/science/article/pii/S0921344917302835?via%3Dihub 
 
 {book: true, sample: true}
 # 1. Setting the stage: Fundamental concepts of sustainability and digital development
